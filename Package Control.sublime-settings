@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"PowerShell",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeREPL",
+		"Terminal"
+	]
+}
